@@ -1,0 +1,30 @@
+language: node_js
+cache:
+  directories:
+    - ~/.npm
+notifications:
+  email: false
+node_js:
+  - '9'
+services:
+  - postgres
+addons:
+  postgresql: "9.6"
+sudo: false
+dist: trusty
+before_script:
+  - echo 'Europe/London' | sudo tee /etc/timezone
+  - sudo dpkg-reconfigure --frontend noninteractive tzdata
+before_install:
+  - export TZ=Europe/London
+install:
+  - npm install
+test:
+  - npm test
+after_success:
+  - npm run coverage
+deploy:
+  provider: script
+  script_cleanup: true
+  script:
+    - npx semantic-release
