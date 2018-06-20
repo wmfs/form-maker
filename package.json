@@ -1,12 +1,22 @@
 {
   "name": "@wmfs/form-maker",
+  "version": "0.0.0-semantically-released",
   "description": "Automatically generates a form and state machine based on a yaml.",
-  "version": "0.0.7",
-  "author": "Meena Hoda",
+  "author": "West Midlands Fire Service",
+  "homepage": "https://github.com/wmfs/form-maker#readme",
   "keywords": [
-    "form",
-    "blueprint"
+    "tymly",
+    "package",
+    "form"
   ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/form-maker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/form-maker/issues"
+  },
   "main": "./lib/index.js",
   "dependencies": {
     "js-yaml": "3.10.0",
@@ -15,7 +25,11 @@
   "devDependencies": {
     "chai": "4.1.2",
     "chai-subset": "1.6.0",
+    "codecov": "3.0.2",
+    "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
+    "nyc": "12.0.2",
+    "semantic-release": "^15.5.2",
     "standard": "11.0.1"
   },
   "scripts": {
