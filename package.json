@@ -1,5 +1,5 @@
 {
-  "name": "form-maker",
+  "name": "@wmfs/form-maker",
   "description": "Automatically generates a form and state machine based on a yaml.",
   "version": "0.0.7",
   "author": "Meena Hoda",
@@ -20,14 +20,16 @@
   },
   "scripts": {
     "lint": "standard",
-    "test": "standard && mocha"
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wmfs/tymly"
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   },
-  "bugs": {
-    "url": "https://github.com/wmfs/form-maker/issues"
+  "publishConfig": {
+    "access": "public"
   }
 }
