@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/wmfs/form-maker/compare/v1.0.2...v1.1.0) (2018-09-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.10 to 4.17.11 ([04c8221](https://github.com/wmfs/form-maker/commit/04c8221))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([50c128e](https://github.com/wmfs/form-maker/commit/50c128e))
+* **deps-dev:** update semantic-release requirement ([95ad144](https://github.com/wmfs/form-maker/commit/95ad144))
+* **deps-dev:** update semantic-release requirement ([97dec21](https://github.com/wmfs/form-maker/commit/97dec21))
+* **deps-dev:** update semantic-release requirement ([0271043](https://github.com/wmfs/form-maker/commit/0271043))
+* **dev-deps:** Move to standard 12.0.1 ([7049f0a](https://github.com/wmfs/form-maker/commit/7049f0a))
+
 ## [1.0.2](https://github.com/wmfs/form-maker/compare/v1.0.1...v1.0.2) (2018-09-05)
 
 
