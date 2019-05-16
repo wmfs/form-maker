@@ -1,3 +1,29 @@
+# [1.2.0](https://github.com/wmfs/form-maker/compare/v1.1.0...v1.2.0) (2019-05-16)
+
+
+### 🛠 Builds
+
+* **deps:** update js-yaml requirement from 3.12.0 to 3.13.1 ([869e05f](https://github.com/wmfs/form-maker/commit/869e05f))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([89c1f21](https://github.com/wmfs/form-maker/commit/89c1f21))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([fdf91dd](https://github.com/wmfs/form-maker/commit/fdf91dd))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([3d33bb2](https://github.com/wmfs/form-maker/commit/3d33bb2))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([dbf38cb](https://github.com/wmfs/form-maker/commit/dbf38cb))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([786ccfb](https://github.com/wmfs/form-maker/commit/786ccfb))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([e4e9b3e](https://github.com/wmfs/form-maker/commit/e4e9b3e))
+* **deps-dev:** update semantic-release requirement ([6a9b8dd](https://github.com/wmfs/form-maker/commit/6a9b8dd))
+* **deps-dev:** update semantic-release requirement ([b6bca26](https://github.com/wmfs/form-maker/commit/b6bca26))
+* **deps-dev:** update semantic-release requirement ([bb3b0bb](https://github.com/wmfs/form-maker/commit/bb3b0bb))
+* **deps-dev:** update semantic-release requirement ([7b4f3f8](https://github.com/wmfs/form-maker/commit/7b4f3f8))
+* **deps-dev:** update semantic-release requirement ([8858a67](https://github.com/wmfs/form-maker/commit/8858a67))
+* **deps-dev:** update semantic-release requirement ([d1d2af9](https://github.com/wmfs/form-maker/commit/d1d2af9))
+* **deps-dev:** update semantic-release requirement ([e6349c2](https://github.com/wmfs/form-maker/commit/e6349c2))
+* **deps-dev:** update semantic-release requirement ([26ecfb9](https://github.com/wmfs/form-maker/commit/26ecfb9))
+* **deps-dev:** update semantic-release requirement ([a72980c](https://github.com/wmfs/form-maker/commit/a72980c))
+* **deps-dev:** update semantic-release requirement ([c19aa62](https://github.com/wmfs/form-maker/commit/c19aa62))
+* **deps-dev:** update semantic-release requirement ([4f0e89c](https://github.com/wmfs/form-maker/commit/4f0e89c))
+* **deps-dev:** update semantic-release requirement ([7c33178](https://github.com/wmfs/form-maker/commit/7c33178))
+* **deps-dev:** update semantic-release requirement ([0a79d30](https://github.com/wmfs/form-maker/commit/0a79d30))
+
 # [1.1.0](https://github.com/wmfs/form-maker/compare/v1.0.2...v1.1.0) (2018-09-12)
 
 
