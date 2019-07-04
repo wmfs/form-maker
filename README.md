@@ -1,7 +1,7 @@
 # Form-maker
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/form-maker.svg)](https://www.npmjs.com/package/@wmfs/form-maker)
-[![Build Status](https://travis-ci.org/wmfs/form-maker.svg?branch=master)](https://travis-ci.org/wmfs/form-maker)
+[![CircleCI](https://circleci.com/gh/wmfs/form-maker.svg?style=svg)](https://circleci.com/gh/wmfs/form-maker)
 [![codecov](https://codecov.io/gh/wmfs/form-maker/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/form-maker)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/form-maker/badge)](https://www.codefactor.io/repository/github/wmfs/form-maker)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
