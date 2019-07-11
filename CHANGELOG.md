@@ -1,3 +1,27 @@
+# [1.3.0](https://github.com/wmfs/form-maker/compare/v1.2.0...v1.3.0) (2019-07-11)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([1da6028](https://github.com/wmfs/form-maker/commit/1da6028))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([7909fac](https://github.com/wmfs/form-maker/commit/7909fac))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([08b400d](https://github.com/wmfs/form-maker/commit/08b400d))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([bc45782](https://github.com/wmfs/form-maker/commit/bc45782))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([224f350](https://github.com/wmfs/form-maker/commit/224f350))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([f848100](https://github.com/wmfs/form-maker/commit/f848100))
+* **deps-dev:** update semantic-release requirement ([b1f9015](https://github.com/wmfs/form-maker/commit/b1f9015))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([a8223a4](https://github.com/wmfs/form-maker/commit/a8223a4))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([e3ed5de](https://github.com/wmfs/form-maker/commit/e3ed5de))
+* **travis:** Remove Travis config ([e7c73a3](https://github.com/wmfs/form-maker/commit/e7c73a3))
+
 # [1.2.0](https://github.com/wmfs/form-maker/compare/v1.1.0...v1.2.0) (2019-05-16)
 
 
