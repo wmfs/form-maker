@@ -1,3 +1,14 @@
+# [1.4.0](https://github.com/wmfs/form-maker/compare/v1.3.0...v1.4.0) (2020-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([7c83ef3](https://github.com/wmfs/form-maker/commit/7c83ef39cf8a527374563824eb860539dfae7784))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([e53411f](https://github.com/wmfs/form-maker/commit/e53411feac07591efd355e53f6e7ed4d15da47b5))
+* **deps-dev:** bump packages ([9959fa4](https://github.com/wmfs/form-maker/commit/9959fa44ca89ea8e5c12c1b4077db709ed232315))
+* **deps-dev:** update dev dependancies ([59d3706](https://github.com/wmfs/form-maker/commit/59d370692cbf2c01bf2e97dbb70d19361ca88b2f))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([8e7906b](https://github.com/wmfs/form-maker/commit/8e7906b5433e3d1508b8f3ee413e030dc5742a6d))
+
 # [1.3.0](https://github.com/wmfs/form-maker/compare/v1.2.0...v1.3.0) (2019-07-11)
 
 
