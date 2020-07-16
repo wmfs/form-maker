@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/form-maker/compare/v1.5.0...v1.6.0) (2020-07-16)
+
+
+### 🛠 Builds
+
+* **deps:** bump js-yaml from 3.13.1 to 3.14.0 ([066eb63](https://github.com/wmfs/form-maker/commit/066eb63eb2289bdbb93547fb322f74d8e3b71085))
+
 # [1.5.0](https://github.com/wmfs/form-maker/compare/v1.4.0...v1.5.0) (2020-07-13)
 
 
