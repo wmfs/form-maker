@@ -1,3 +1,19 @@
+# [1.7.0](https://github.com/wmfs/form-maker/compare/v1.6.0...v1.7.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([48d9ecc](https://github.com/wmfs/form-maker/commit/48d9ecc12f7bd7126d283081621476bf730809bd))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([0d76518](https://github.com/wmfs/form-maker/commit/0d765183ff3daf8783b78589c53968415491528a))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([c00ba0e](https://github.com/wmfs/form-maker/commit/c00ba0e58c50ccae241d26bb02d8052907126633))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([7a1aff5](https://github.com/wmfs/form-maker/commit/7a1aff506b3c692db56f5f6ec60cbcaa86b2a528))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([6abfb4d](https://github.com/wmfs/form-maker/commit/6abfb4d572012aae4dd53d4d6d4805eb07d007e1))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([51f2250](https://github.com/wmfs/form-maker/commit/51f2250978b11fe1f96d3a03ec7fb1ec49c539a2))
+
 # [1.6.0](https://github.com/wmfs/form-maker/compare/v1.5.0...v1.6.0) (2020-07-16)
 
 
