@@ -1,3 +1,53 @@
+# [1.8.0](https://github.com/wmfs/form-maker/compare/v1.7.0...v1.8.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([81cd9b5](https://github.com/wmfs/form-maker/commit/81cd9b5432b5c500e8af444cbd00138a1eb2ea72))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([a15fc84](https://github.com/wmfs/form-maker/commit/a15fc843a2c423c8abebaa93feea5ece109afbe4))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([94d85f8](https://github.com/wmfs/form-maker/commit/94d85f800e70aecac6bf0815a981ef5efde5450b))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([9e91bc2](https://github.com/wmfs/form-maker/commit/9e91bc27794302eeec134e1a4059995d27109ab0))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([ab1308c](https://github.com/wmfs/form-maker/commit/ab1308c329606fbf956ded38d8d1b7b7c99be5b0))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([c84023a](https://github.com/wmfs/form-maker/commit/c84023a1484dd36c601a1c3eaa43781567f8e851))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([284a7a3](https://github.com/wmfs/form-maker/commit/284a7a3ccf47c72a41ee881cdce99c3c954abd5c))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([1fa9d6e](https://github.com/wmfs/form-maker/commit/1fa9d6eddab588e1c66874f9dcc03de8caab6c41))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([06801f4](https://github.com/wmfs/form-maker/commit/06801f4137f712ea531d3704b271307d1ab88c2e))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([a5c571c](https://github.com/wmfs/form-maker/commit/a5c571cfa8297ac4714de434962c77f859ab47ac))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([986698c](https://github.com/wmfs/form-maker/commit/986698c4b1c786745bcaacadf0641b9e1583dc9f))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([c55ec9b](https://github.com/wmfs/form-maker/commit/c55ec9b2c46469883dc013de40937e87cab76032))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([99b82e4](https://github.com/wmfs/form-maker/commit/99b82e46b7df1f81bdff9894d176d3dd48636607))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([6a6b796](https://github.com/wmfs/form-maker/commit/6a6b796eedd022cfeb186df78b467cceddc436ab))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([2137263](https://github.com/wmfs/form-maker/commit/21372636c737a062837d7d9234f66ae5a0be976e))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([b70b217](https://github.com/wmfs/form-maker/commit/b70b217b6fe615b9d679909997ca8d7429de5cf1))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([7a9365f](https://github.com/wmfs/form-maker/commit/7a9365f0d602d103dc2df405118adb808cf280e2))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([c5465ea](https://github.com/wmfs/form-maker/commit/c5465eaa275be6a3c0fe96b1a99d2caef5b1e8fb))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([2e7c164](https://github.com/wmfs/form-maker/commit/2e7c1648194feb31f25734d1dfa0f26427ad44c6))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([8ca40be](https://github.com/wmfs/form-maker/commit/8ca40bec55621cc53dbec92ad00fb96862cec740))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([fbe893c](https://github.com/wmfs/form-maker/commit/fbe893c08b30bb4e925e3ca8f8984b5a99179c15))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([d6bf5bb](https://github.com/wmfs/form-maker/commit/d6bf5bb922e58c4cc42d235f3878712306e9672a))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([064fbc5](https://github.com/wmfs/form-maker/commit/064fbc579345c73f38c0692ed5fc7ad059818727))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([f89780d](https://github.com/wmfs/form-maker/commit/f89780d996cb65ff10495fd97549ee2ca3491743))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([a6ff5be](https://github.com/wmfs/form-maker/commit/a6ff5be2ac31e207aa3c3dc3ec682caac5a6bf20))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([d2427f9](https://github.com/wmfs/form-maker/commit/d2427f953920e2afb9e14337eea34627cb1e011f))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([3548a17](https://github.com/wmfs/form-maker/commit/3548a17d7d293b4e2375af06af154bb473dc08a5))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([f22cf68](https://github.com/wmfs/form-maker/commit/f22cf68d79c82568ad919ec62bae7de1f43a19c2))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([078e95e](https://github.com/wmfs/form-maker/commit/078e95e90cd9b8c1ea8f36daf3c760ee3c2f85fc))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.2 ([e756acf](https://github.com/wmfs/form-maker/commit/e756acf8115224e1c0923330fd79ede5902b183e))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([2fa1d44](https://github.com/wmfs/form-maker/commit/2fa1d44a7e31fa14a41a2b1b2eb6a2b17b209e43))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([17826fc](https://github.com/wmfs/form-maker/commit/17826fc50db554b2e81c588d18b4fb82c8cf3191))
+* **circle:** cache dependencies [ch2770] ([5971edd](https://github.com/wmfs/form-maker/commit/5971eddeaad805d5e75c80ce0d356a57f09d6229))
+* **circle:** separate linting job [ch1009] ([fedf629](https://github.com/wmfs/form-maker/commit/fedf629eeaac3e8a168a58c3363d29be3a9cbdfb))
+* **circle:** update build environment variable context name [ch2771] ([2c363d0](https://github.com/wmfs/form-maker/commit/2c363d00e697905ab275801570a8f18e768fa46a))
+
+
+### 💎 Styles
+
+* standard - Array.prototype.map() expects a return value from arrow function ([623f88f](https://github.com/wmfs/form-maker/commit/623f88f670c5eb6123ba1d88df0a6cfecaecdabb))
+
 # [1.7.0](https://github.com/wmfs/form-maker/compare/v1.6.0...v1.7.0) (2020-08-17)
 
 
