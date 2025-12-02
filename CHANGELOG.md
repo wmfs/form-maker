@@ -1,3 +1,11 @@
+## [1.11.0](https://github.com/wmfs/form-maker/compare/v1.10.0...v1.11.0) (2025-12-02)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.7.5 ([#339](https://github.com/wmfs/form-maker/issues/339)) ([235ea81](https://github.com/wmfs/form-maker/commit/235ea8161994f37c8088f6a6998ed5359eddb803))
+* **deps-dev:** update dependency semantic-release to v25.0.2 ([#340](https://github.com/wmfs/form-maker/issues/340)) ([6919c82](https://github.com/wmfs/form-maker/commit/6919c821f4bdcf09c8ba52de82e056d8bbd5d1b8))
+* **deps:** update dependency js-yaml to v3.14.2 [security] ([#342](https://github.com/wmfs/form-maker/issues/342)) ([a17c84d](https://github.com/wmfs/form-maker/commit/a17c84d9b797825cf63bbb52ce404e757baab6e4))
+
 ## [1.10.0](https://github.com/wmfs/form-maker/compare/v1.9.0...v1.10.0) (2025-10-21)
 
 ### Build system dependencies :hammer:
