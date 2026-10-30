@@ -1,3 +1,22 @@
+## [1.12.0](https://github.com/wmfs/form-maker/compare/v1.11.1...v1.12.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([70ad132](https://github.com/wmfs/form-maker/commit/70ad13269b3f8107ec52ca282e4ff0f857681ab8))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#371](https://github.com/wmfs/form-maker/issues/371)) ([6cf4cba](https://github.com/wmfs/form-maker/commit/6cf4cba6def2873fd91f8fa525a6b867a02a3af2))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#376](https://github.com/wmfs/form-maker/issues/376)) ([9011b6c](https://github.com/wmfs/form-maker/commit/9011b6cf9b0a917deca3b17153e6378785c9bd06))
+* **deps-dev:** update dependency mocha to v12 ([#372](https://github.com/wmfs/form-maker/issues/372)) ([3734ee3](https://github.com/wmfs/form-maker/commit/3734ee388c1ec447132756fda0ef1604183e55c8))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#373](https://github.com/wmfs/form-maker/issues/373)) ([4b8b59f](https://github.com/wmfs/form-maker/commit/4b8b59f0f7f5a1464c6c7de5ce7a3db9b861dc0c))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#374](https://github.com/wmfs/form-maker/issues/374)) ([97eaa0d](https://github.com/wmfs/form-maker/commit/97eaa0d80d2e704f941b4e124776507327812d77))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#375](https://github.com/wmfs/form-maker/issues/375)) ([84af889](https://github.com/wmfs/form-maker/commit/84af8897130ec97b9ba56c4e1fb018ec85f30dd9))
+* **deps:** update dependency js-yaml to v3.15.2 [security] ([#359](https://github.com/wmfs/form-maker/issues/359)) ([528dff2](https://github.com/wmfs/form-maker/commit/528dff22c00edafa2ef4d6f99432712381e45867))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#346](https://github.com/wmfs/form-maker/issues/346)) ([f66a151](https://github.com/wmfs/form-maker/commit/f66a1515c047a1c93f4494485026b77bb11f66dd))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#379](https://github.com/wmfs/form-maker/issues/379)) ([6b84f13](https://github.com/wmfs/form-maker/commit/6b84f13cf2b10aad82e12244e39027cf6fcec542))
+* use shared renovate preset [sc-34117] ([#380](https://github.com/wmfs/form-maker/issues/380)) ([f3b69dd](https://github.com/wmfs/form-maker/commit/f3b69dd0edb63c0d81900d3c720f39ddb0fc3614))
+
 ## [1.11.1](https://github.com/wmfs/form-maker/compare/v1.11.0...v1.11.1) (2026-08-13)
 
 ## [1.11.0](https://github.com/wmfs/form-maker/compare/v1.10.0...v1.11.0) (2025-12-02)
