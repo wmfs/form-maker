@@ -1,3 +1,9 @@
+## [1.13.0](https://github.com/wmfs/form-maker/compare/v1.12.0...v1.13.0) (2026-11-06)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency js-yaml to v5 ([#381](https://github.com/wmfs/form-maker/issues/381)) ([597a06f](https://github.com/wmfs/form-maker/commit/597a06fdab5fc9fee49a58f171a12f866770368b))
+
 ## [1.12.0](https://github.com/wmfs/form-maker/compare/v1.11.1...v1.12.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
